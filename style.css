@@ -1,0 +1,24 @@
+h1{text-decoration:underline;
+font-weight:bold;}
+
+code{font-family: Consolas, "courier new";
+    color: #e046e0;
+    background-color: #f1f1f1;
+    padding: 2px;
+    font-size: 105%; }
+h2{margin-left:500px;
+text-decoration: overline underline;}
+
+.custom1-jumbotron{margin-left:400px;
+    margin-top:-350px;}
+    #l1{margin-left:420px;
+    margin-top:-100px;}
+
+    
+    .custom2-jumbotron{margin-left:400px;
+    margin-top:-350px;}
+
+    .custom3-jumbotron{margin-left:400px;
+    margin-top:-280px;}
+
+    
